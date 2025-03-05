@@ -7,7 +7,6 @@
         "analyze": "vendor/bin/phpstan"
     },
     "require": {
-        "pocketmine/pocketmine-mp": "^5.0.0",
         "sof3/await-generator": "^3.5.2"
     },
     "require-dev": {
